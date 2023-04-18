@@ -14,7 +14,7 @@ public class Main {
             Random rand = new Random();
             int number = rand.nextInt(3);
             char computerMove = arr[number];
-            System.out.println("computer move :" + computerMove);
+            System.out.println("Computer move :" + computerMove);
 
             //computer =user>draw!!
             if (userMove == computerMove) {
