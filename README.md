@@ -1,0 +1,1 @@
+This is a simple Scissor Paper Rock game built using Java. The user selects either Scissor, Paper, or Rock, and the computer randomly chooses its move. The game then compares both choices and displays the result  win, lose, or draw based on the classic game rules.
